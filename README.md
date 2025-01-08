@@ -31,4 +31,11 @@
 ## Check out my Social Media
  <a href="https://www.facebook.com/fabianandres.ortegabarragan?mibextid=ZbWKwL">
  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+ <a href=" <a href="https://www.instagram.com/barragan9538/profilecard/?igsh=Z3c2aW1hNm1wdHZx">
+   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=fabo0822&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/fabo0822)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=fabo0822&theme=material-palenight)](https://github.com/fabo0822)
+</div>
 
